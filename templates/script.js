@@ -1,0 +1,1 @@
+console.log("From: Teacher Tools Website | We're Up and Running!")
